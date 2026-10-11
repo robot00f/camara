@@ -108,6 +108,13 @@ env GOOS=linux GOARCH=arm GOARM=5 CGO_ENABLED=0 go build -ldflags="-s -w" -trimp
 
 ---
 
+## 👥 Autores y Agradecimientos
+
+- **[@robot00f](https://github.com/robot00f)** — Creador y mantenedor.
+- **Antigravity ([Google DeepMind](https://deepmind.google/))** — Ingeniería inversa, arquitectura del cliente HTTPS y desarrollo en pareja de WoL Sentinel.
+
+---
+
 ## 📄 Licencia
 
 Distribuido bajo la licencia [MIT](LICENSE). Código libre y de uso abierto.

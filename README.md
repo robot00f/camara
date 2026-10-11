@@ -113,6 +113,13 @@ env GOOS=linux GOARCH=arm GOARM=5 CGO_ENABLED=0 go build -ldflags="-s -w" -trimp
 
 ---
 
+## 👥 Authors & Acknowledgments
+
+- **[@robot00f](https://github.com/robot00f)** — Creator & Maintainer.
+- **Antigravity ([Google DeepMind](https://deepmind.google/))** — Reverse engineering, HTTPS fetcher architecture & WoL Sentinel pair-programming.
+
+---
+
 ## 📄 License
 
 Distributed under the [MIT](LICENSE) License. Open-source and free to use.
